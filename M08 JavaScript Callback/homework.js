@@ -68,7 +68,6 @@ function filter(arrayOfStrings) {
    // Tu código:
    var nuevoArreglo = [];
    return nuevoArreglo = arrayOfStrings.filter(elemento => elemento[0] === "a");
-      
 }
 
 
